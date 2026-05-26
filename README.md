@@ -1,9 +1,8 @@
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=55&duration=3500&pause=800&color=FFB6C1&center=true&vCenter=true&width=1000&height=120&lines=Abiha+Talat" 
+    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=32&duration=3500&pause=1000&color=FFB6C1&center=true&vCenter=true&width=1200&height=140&lines=Abiha+Talat;Developer+•+Builder+•+Creator" 
   />
 </p>
-
 
 # 💫 About Me:
 Curious by nature and driven by understanding, I enjoy exploring ideas deeply and learning through building. I value growth, creativity, and independence, and I tend to approach challenges with a “figure it out” mindset rather than fear of failure.<br>
